@@ -12,17 +12,22 @@
     
     background-color: aqua;
     border: 10px;
-    width: 45px;
-    height: 35px;
+    width: 50px;
+    height: 40px;
     display: flex;
     
     justify-content: center;
     align-items: center;
     border-radius: 6px;
+    font-size: 2em;
     
     
     
 }
 h1{
     text-align: center;
+}
+.date:hover{
+    background-color: green;
+    color: red;
 }
